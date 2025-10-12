@@ -1,0 +1,5 @@
+# Custom
+audio_files/
+
+# General
+.venv/
