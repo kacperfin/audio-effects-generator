@@ -6,6 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Software that generates the following audio effects:
 
+- Reverse
 - Delay
 - Echo
 - Reverb
@@ -16,5 +17,5 @@ Software that generates the following audio effects:
 
 - Python
   - Numpy
+  - Scipy
   - Streamlit
-  - ...

@@ -1,5 +1,4 @@
-# Custom
-audio_files/
-
 # General
 .venv/
+.claude/
+__pycache__/
