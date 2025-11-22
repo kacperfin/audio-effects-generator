@@ -2,3 +2,6 @@
 .venv/
 .claude/
 __pycache__/
+
+# IR files (impulse responses)
+ir/*.wav
