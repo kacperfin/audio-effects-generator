@@ -6,16 +6,20 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Software that generates the following audio effects:
 
-- Reverse
+- Filter
+- Overdrive
+- Phaser
+- Flanger
+- Chorus
 - Delay
 - Echo
 - Reverb
-- Phaser
-- Flanger
+- Reverse
 
 ## Technology stack
 
 - Python
   - Numpy
   - Scipy
+  - Soundfile
   - Streamlit
